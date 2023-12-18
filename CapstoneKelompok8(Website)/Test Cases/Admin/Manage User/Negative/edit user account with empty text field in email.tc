@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>edit user account with empty text field in email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2f164bd-8c5c-4ac1-9b66-32c1bafcbea6</testCaseGuid>
+</TestCaseEntity>
