@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create a class on an image with the wrong format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3cb17e4-915e-45bb-93c2-edfa39172eb1</testCaseGuid>
+</TestCaseEntity>
