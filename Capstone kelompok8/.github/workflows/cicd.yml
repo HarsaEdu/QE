@@ -1,4 +1,4 @@
-name: CICD Capstone Course Tracking
+name: CICD
 
 on:
   push:
@@ -20,9 +20,9 @@ jobs:
       - name: Build with Maven
         run: mvn --batch-mode --update-snapshots package
   test:
-    name: Test API Course Tracking
+    name: Test cicd
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - name: Test API Course Tracking
+      - name: Test cicd
         run: mvn clean verify
