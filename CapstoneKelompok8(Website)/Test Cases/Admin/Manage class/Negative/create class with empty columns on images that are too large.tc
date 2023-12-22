@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create class with empty columns on images that are too large</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c20b5a47-eec9-4f61-b07d-0a880c62c9a6</testCaseGuid>
+</TestCaseEntity>

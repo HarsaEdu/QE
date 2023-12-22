@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>edit user profile with empty text field in phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9997e522-d205-4386-9ee7-ea91e1ee51d2</testCaseGuid>
+</TestCaseEntity>

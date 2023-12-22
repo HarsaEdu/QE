@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>edit user profile with empty text field in first name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a055888-6f3d-4aef-9078-299047882f00</testCaseGuid>
+</TestCaseEntity>

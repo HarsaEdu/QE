@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>edit user account with text field in email without at</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8345c64f-ea26-4428-98a2-51c7cf1e583a</testCaseGuid>
+</TestCaseEntity>

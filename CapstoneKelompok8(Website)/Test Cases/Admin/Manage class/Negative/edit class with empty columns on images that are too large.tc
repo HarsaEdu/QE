@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>edit class with empty columns on images that are too large</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53215d24-00e6-4ca2-8ae2-cf14db236f51</testCaseGuid>
+</TestCaseEntity>
